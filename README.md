@@ -7,6 +7,13 @@
 ## Quick Start
 
 ```bash
+# Clone the repository
+git clone https://github.com/username/wordpress-docker-ssl-setup.git
+
+# Navigate to the directory
+cd wordpress-docker-ssl-setup
+
+# Run the setup script
 sudo bash setup-wp-docker-ssl.sh
 ```
 
