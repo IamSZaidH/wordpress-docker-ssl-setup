@@ -25,9 +25,15 @@ Follow the prompts to enter your domain, email, and database details.
 - Domain name pointing to your server
 - Open ports: 80, 443, 8080
 
+## Supported Operating Systems
+
+- ✅ **Fully tested on:** Ubuntu, Debian
+- ⚠️ **Should work on:** CentOS, Fedora, RHEL, Rocky Linux, AlmaLinux
+- ⚠️ **Limited support:** Arch Linux, Manjaro, openSUSE
+- ❌ **Not supported:** Windows, macOS
+
 ## Features
 
-- ✅ Works on Ubuntu, Debian, CentOS, Fedora, Arch, etc.
 - ✅ Auto-installs Docker and all dependencies
 - ✅ Configures Let's Encrypt SSL with auto-renewal
 - ✅ Includes phpMyAdmin for database management
